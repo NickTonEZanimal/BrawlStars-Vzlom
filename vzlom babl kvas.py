@@ -1,0 +1,13 @@
+import time
+print("Взлом бабл квас начат")
+time.sleep(3)
+print("Взлом бабл квос 25%")
+time.sleep(3)
+print("Взлом бровл квус 50%")
+time.sleep(3)
+print("взлом биба квесв 75%")
+time.sleep(3)
+print("взлум бобла квосака 100%")
+time.sleep(7)
+print("взлум уппешен парль 123456789 ")
+time.sleep(1000)
